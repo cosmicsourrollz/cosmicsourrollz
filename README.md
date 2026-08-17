@@ -1,3 +1,9 @@
+<h3 align="center">
+  
+![](https://komarev.com/ghpvc/?username=cosmicsourrollz&color=yellow&style=plastic&label=hi)
+<h3>
+
+
 <p align="center">
 wip readme.... take this image I made 4 friends
 </p>
