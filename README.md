@@ -20,15 +20,11 @@
     </tr>
   </table>
 </div>
-
-<p align="center">
-<img src=https://github.com/cosmicsourrollz/devious/blob/cfbe35ef2014f5bb90b899a4049f75561e95d4f0/heartsred.png width="300">
-
+<br>
 <p align="center">
 <a href="https://sourstuff.straw.pg/">strawpage</a> <a href="https://en.pronouns.page/@mysourheart/">prns.page</a> <a href="https://pronouns.cc/@soursourstuff">prns.cc</a>
 </p>
-<p align="center">
-<img src=https://github.com/cosmicsourrollz/devious/blob/cfbe35ef2014f5bb90b899a4049f75561e95d4f0/heartsred.png width="250">
+<br>
 <br>
 <p align="center">
 <img src=https://github.com/cosmicsourrollz/devious/blob/42e8a6eda1e57b2e431ec8cca1bc90cbe49b83a1/deviousduo-devious-duo.gif width="70">
