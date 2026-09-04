@@ -22,7 +22,7 @@
 </div>
 <br>
 <p align="center">
-<a href="https://sourstuff.straw.pg/">strawpage</a> <a href="https://en.pronouns.page/@mysourheart/">prns.page</a> <a href="https://pronouns.cc/@soursourstuff">prns.cc</a>
+<a href="https://sourstuff.straw.pg/">strawpage</a> <a href="https://sourstuff.atabook.org/">atabook</a> <a href="https://pronouns.cc/@soursourstuff">prns.cc</a>
 </p>
 <br>
 <br>
